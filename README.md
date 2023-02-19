@@ -8,7 +8,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [Expenses chart component](https://faq-acc0rdion.netlify.app/)
+- Live Site URL: [Expenses chart component](https://expenses-chart-c0mponent.netlify.app/)
 
 ## Built with
 
